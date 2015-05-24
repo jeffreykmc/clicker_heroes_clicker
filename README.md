@@ -7,3 +7,12 @@ It is used to perform mouse click action on the monster by Autohotkey.
 
 Enjoy
 
+
+How to use:
+In Clicker Heroes Windows
+Press Q to Quit
+Press T to enable / disable autoclick. 
+
+
+
+
